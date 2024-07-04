@@ -43,7 +43,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 
 if (ENVIRONMENT == 'development') {
-	$project_parent_folder = 'EasiAPIs';
+	$project_parent_folder = 'Easiapis';
        // $extras_folder = 'extras';
 		$extras_folder = 'assets';
 	$extras_folder_realpath = '../'.$extras_folder;

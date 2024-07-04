@@ -50,7 +50,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 define('PROJECT_COOKIE_NAME', 'supervision');
 
-$project_parent_folder = 'EasiAPIs';
+$project_parent_folder = 'Easiapis';
 
 if (empty($project_parent_folder) == false) {
 	define('APP_ROOT_DIR', '/'.$project_parent_folder); //main folder which wraps complete application
