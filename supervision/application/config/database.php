@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'Api_developments';
-$db['default']['password'] = 'rp28*3A8o';
-$db['default']['database'] = 'api_development';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'easiapis';
 //$db['default']['dbdriver'] = 'mysql';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';

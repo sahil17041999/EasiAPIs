@@ -23,7 +23,7 @@
 |
 */
 //$config['base_url'] = '';
-$config['base_url']	= 'https://'.$_SERVER['HTTP_HOST'].PROJECT_URI.'/';
+$config['base_url']	= 'http://'.$_SERVER['HTTP_HOST'].PROJECT_URI.'/';
 
 /*
 |--------------------------------------------------------------------------
