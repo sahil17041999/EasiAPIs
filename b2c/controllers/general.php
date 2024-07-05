@@ -12,6 +12,7 @@ class General extends BaseController
 
 	public function index()
 	{
+		//print_r(base_url());die;
 		
 		$this->template("general/index");
 	}

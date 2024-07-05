@@ -105,10 +105,10 @@
       </div>
    </div>
 </footer>
-<script  type="text/javascript" src="assets/vendor/jquery/jquery.min.js"></script>
+<script  type="text/javascript" src="<?=base_url()?>assets/vendor/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
-<script  type="text/javascript" src="assets/js/jquery-ui.js"></script>
+<script  type="text/javascript" src="<?=base_url()?>assets/js/jquery-ui.js"></script>
 <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="assets/js/custom.js"></script>
 </body>

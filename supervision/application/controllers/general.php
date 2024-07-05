@@ -22,6 +22,7 @@ class general extends CI_Controller
     function __construct()
     {
         // Call the Model constructor
+        
         parent::__construct();
         $this->load->model('user_model');
         $this->load->library('form_validation');
@@ -31,7 +32,7 @@ class general extends CI_Controller
     }
     public function index()
     {
-
+     
         
         $this->isLoggedIn();
     }
@@ -51,6 +52,7 @@ class general extends CI_Controller
 
     public function login()
     {
+        
 
         $this->load->library('form_validation');
 

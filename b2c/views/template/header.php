@@ -1,27 +1,4 @@
-<!-- <!doctype html>
-<html lang="en">
-   <head>
-      
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="keywords" content="<?= META_KEYWORDS ?>">
-      <meta name="description" content="<?= META_DESCRIPTION ?>">
-      <title><?php echo 'Welcome'. ' '.HEADER_TITLE_SUFFIX; ?></title>
-      <link rel="icon" href="assets/img/logo/favicon.ico" type="image/x-icon">
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-      <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css"> 
-       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">    
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
-      
 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-      <link  href="assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
-      <link href="assets/css/owl.carousel-home.min.css" rel="stylesheet">
-      <link  href="assets/js/owl.carousel.min.js" rel="stylesheet" type="text/css">
-      <link  href="assets/css/theme_style.css" rel="stylesheet" type="text/css"> 
-      <link href="assets/css/media.css" rel="stylesheet" type="text/css">
-   </head> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
   <link  href="assets/css/theme_style.css" rel="stylesheet" type="text/css"> 
-  <link href="assets/css/media.css" rel="stylesheet" type="text/css">
+  <!-- <link href="assets/css/media.css" rel="stylesheet" type="text/css"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
