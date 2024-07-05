@@ -1,0 +1,4 @@
+RewriteCond %{HTTP_HOST} ^(?:www\.)?example\.com$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^/main/ [NC]
+RewriteRule ^(.*)$ /main/public/$1 [L]

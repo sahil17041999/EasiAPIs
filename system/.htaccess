@@ -1,1 +1,5 @@
-Deny from all
+<Directory "C:/xampp/htdocs/">
+    Options Indexes FollowSymLinks ExecCGI Includes
+    AllowOverride All
+    Require all granted
+   </Directory>
